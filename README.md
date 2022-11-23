@@ -1,7 +1,4 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm  Sai from KARE </h1>
+<h1 align="center"> Hello, I'm  Sai from KARE </h1>
 
 <h3 align="center">Welcome to my github  Repo </h3>
 <hr />
