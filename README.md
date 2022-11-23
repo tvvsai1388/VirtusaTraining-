@@ -7,7 +7,7 @@
 <hr />
 
 
-# ⚡ What this Repo contains ?
+#  What this Repo contains ?
 -  React JS Project Automatic Quiz web app
 -  Core Java Practise Programs (Basic java and oops concepts)
 -  Forms Validation in AngularJS
